@@ -11,7 +11,7 @@
 | Shipped Android Version | 4.2                               |
 | Storage                 | 8 GB                              |
 | MicroSD                 | Up to 32 GB                       |
-| Battery                 | 2000 mAh (non-removable)          |
+| Battery                 | 2000 mAh (removable)              |
 | Dimensions              | 139.5 x 69.7 x 9 mm               |
 | Display                 | 720 x 1280 pixels, 4.7" (~312 PPI)|
 | Rear Camera             | 12 MP, LED flash                  |
